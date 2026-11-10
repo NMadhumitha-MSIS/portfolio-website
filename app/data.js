@@ -109,13 +109,13 @@ export const education = [
   {
     school: "Northeastern University",
     degree: "Master of Science, Information Systems",
-    dates: "Sep 2024 to Apr 2026",
+    dates: "Sep 2024 to May 2026",
     highlight: "Coursework in application engineering, cloud computing, data management, UX design, Agile development, and AI."
   },
   {
     school: "BMS Institute of Technology and Management",
     degree: "Bachelor of Engineering, Information Science and Engineering",
-    dates: "2020 to 2024",
+    dates: "Dec 2020 to May 2024",
     highlight: "Led art and decor for Vistara, coordinated dance for Utsaha, and coordinated hospitality for CodeRed'24."
   }
 ];
