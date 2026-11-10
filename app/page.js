@@ -179,7 +179,7 @@ export default function Home() {
           </div>
           <Reveal>
             <div className="mt-10 text-center">
-              <a href={profile.github} className="inline-block rounded-lg border-2 border-blue-800 px-6 py-3 font-semibold text-blue-800 motion-safe:transition hover:bg-blue-800 hover:text-white">
+              <a href={profile.projectsHub} className="inline-block rounded-lg border-2 border-blue-800 px-6 py-3 font-semibold text-blue-800 motion-safe:transition hover:bg-blue-800 hover:text-white">
                 See all my projects on GitHub
               </a>
             </div>

@@ -7,6 +7,7 @@ export const profile = {
   contactNote: "Whether you have a role in mind, a project to talk through, or just want to connect, I would love to hear from you.",
   location: "Boston, MA",
   github: "https://github.com/NMadhumitha-MSIS",
+  projectsHub: "https://github.com/NMadhumitha-MSIS/project-portfolio",
   linkedin: "https://www.linkedin.com/in/n-madhumitha/",
   email: "madhumithanandhikatti@gmail.com",
   photo: ""
